@@ -6,7 +6,7 @@ function otherClass() {
 }
 
 (function IFFE() {
-    console.log('Hello, I am an IFFE function')
+    console.log('Hello, I am an IFFE function');
 })();
 
 console.log(teacher);
