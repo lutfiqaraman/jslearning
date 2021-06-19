@@ -1,5 +1,5 @@
 import Bookshelf     from '../OOP/BookShelf.mjs';
-import { fakeAjax }  from './fakeagent.mjs';
+import { fakeAjax }  from './fakeajax.mjs';
 
 let BOOK_API = "https://some.url/api";
 
